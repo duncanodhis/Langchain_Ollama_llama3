@@ -1,7 +1,6 @@
-
 ### README for LangChain-Ollama Application (`Langchain_Ollama_llama3.py`)
 
-```markdown
+
 # LangChain with Ollama Integration
 
 This application integrates LangChain with the Ollama LLM to perform various operations, such as question-answering and other conversational tasks.
@@ -14,7 +13,7 @@ To run this application, ensure you have Python 3.10 or later installed, along w
 
 To install the required Python packages, use the following command:
 
-```bash
+
 pip install -r requirements.txt
 
 
